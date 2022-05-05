@@ -12,7 +12,7 @@ app.get("/languages", async (req, res) => {
     method: "GET",
     headers: {
       "X-RapidAPI-Host": "google-translate20.p.rapidapi.com",
-      "X-RapidAPI-Key": "2ec25d6a38msh573072ede476babp109be6jsn1a428c38d431",
+      "X-RapidAPI-Key": process.env.RAPID_API_KEY,
     },
   };
 
