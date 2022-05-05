@@ -6,7 +6,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 <img src="initialPage.png">
 
-<img src="langaugeList.png">
+<img src="languageList.png">
 
 <img src="translate.png">
 
